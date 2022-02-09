@@ -57,12 +57,18 @@ IPhone looking android emulator (IEmulator) 😍.
 
 - Choose Device Image (OS).
 - Click `Next`
-  ![](/assets/docs/8.png)
+
+![](/assets/docs/8.png)
 
 # Step 6
 
 - Click `Finish`.
-- **All Done!**
-  ![](/assets/docs/9.png)
+- **All Done! ❣️**
+
+![](/assets/docs/9.png)
+
+<br />
+
+### [Follow Instagram](https://www.instagram.com/hi.coders/)
 
 ## **Thank You! ❣️**
