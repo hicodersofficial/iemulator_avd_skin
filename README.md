@@ -1,6 +1,6 @@
 # **Android Emulator Custom Skin**
 
-IPhone looking android emulator 😍.
+IPhone looking android emulator (IEmulator) 😍.
 
 ![](/assets/preview.png)
 
